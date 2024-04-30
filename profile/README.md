@@ -7,7 +7,9 @@
 <div align="center">
     <img src="/images/github-pru.png" alt="PRU Logo" width="110" height="110">
     <img src="/images/github-robotics.png" alt="PRU Robotics Logo" width="200" height="auto">
-    <img src="/images/github-axiolite.png" alt="Axiolite Logo" width="200" height="auto">
+    <a href="https://www.teknofest.org/en/competitions/competition_report_detail/3164">
+        <img src="/images/github-axiolite.png" alt="Axiolite Logo" width="200" height="auto">
+    </a>
 </div>
 
 <br><br>
